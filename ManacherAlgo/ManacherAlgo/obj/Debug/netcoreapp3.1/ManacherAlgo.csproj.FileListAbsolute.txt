@@ -1,0 +1,13 @@
+C:\Users\Shwet\source\repos\ManacherAlgo\ManacherAlgo\bin\Debug\netcoreapp3.1\ManacherAlgo.exe
+C:\Users\Shwet\source\repos\ManacherAlgo\ManacherAlgo\bin\Debug\netcoreapp3.1\ManacherAlgo.deps.json
+C:\Users\Shwet\source\repos\ManacherAlgo\ManacherAlgo\bin\Debug\netcoreapp3.1\ManacherAlgo.runtimeconfig.json
+C:\Users\Shwet\source\repos\ManacherAlgo\ManacherAlgo\bin\Debug\netcoreapp3.1\ManacherAlgo.runtimeconfig.dev.json
+C:\Users\Shwet\source\repos\ManacherAlgo\ManacherAlgo\bin\Debug\netcoreapp3.1\ManacherAlgo.dll
+C:\Users\Shwet\source\repos\ManacherAlgo\ManacherAlgo\bin\Debug\netcoreapp3.1\ManacherAlgo.pdb
+C:\Users\Shwet\source\repos\ManacherAlgo\ManacherAlgo\obj\Debug\netcoreapp3.1\ManacherAlgo.csprojAssemblyReference.cache
+C:\Users\Shwet\source\repos\ManacherAlgo\ManacherAlgo\obj\Debug\netcoreapp3.1\ManacherAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Shwet\source\repos\ManacherAlgo\ManacherAlgo\obj\Debug\netcoreapp3.1\ManacherAlgo.AssemblyInfoInputs.cache
+C:\Users\Shwet\source\repos\ManacherAlgo\ManacherAlgo\obj\Debug\netcoreapp3.1\ManacherAlgo.AssemblyInfo.cs
+C:\Users\Shwet\source\repos\ManacherAlgo\ManacherAlgo\obj\Debug\netcoreapp3.1\ManacherAlgo.dll
+C:\Users\Shwet\source\repos\ManacherAlgo\ManacherAlgo\obj\Debug\netcoreapp3.1\ManacherAlgo.pdb
+C:\Users\Shwet\source\repos\ManacherAlgo\ManacherAlgo\obj\Debug\netcoreapp3.1\ManacherAlgo.genruntimeconfig.cache

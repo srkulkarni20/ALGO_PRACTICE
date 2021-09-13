@@ -1,0 +1,13 @@
+C:\Users\Shwet\source\repos\DesignTinyUrl\DesignTinyUrl\bin\Debug\netcoreapp3.1\DesignTinyUrl.exe
+C:\Users\Shwet\source\repos\DesignTinyUrl\DesignTinyUrl\bin\Debug\netcoreapp3.1\DesignTinyUrl.deps.json
+C:\Users\Shwet\source\repos\DesignTinyUrl\DesignTinyUrl\bin\Debug\netcoreapp3.1\DesignTinyUrl.runtimeconfig.json
+C:\Users\Shwet\source\repos\DesignTinyUrl\DesignTinyUrl\bin\Debug\netcoreapp3.1\DesignTinyUrl.runtimeconfig.dev.json
+C:\Users\Shwet\source\repos\DesignTinyUrl\DesignTinyUrl\bin\Debug\netcoreapp3.1\DesignTinyUrl.dll
+C:\Users\Shwet\source\repos\DesignTinyUrl\DesignTinyUrl\bin\Debug\netcoreapp3.1\DesignTinyUrl.pdb
+C:\Users\Shwet\source\repos\DesignTinyUrl\DesignTinyUrl\obj\Debug\netcoreapp3.1\DesignTinyUrl.csprojAssemblyReference.cache
+C:\Users\Shwet\source\repos\DesignTinyUrl\DesignTinyUrl\obj\Debug\netcoreapp3.1\DesignTinyUrl.AssemblyInfoInputs.cache
+C:\Users\Shwet\source\repos\DesignTinyUrl\DesignTinyUrl\obj\Debug\netcoreapp3.1\DesignTinyUrl.AssemblyInfo.cs
+C:\Users\Shwet\source\repos\DesignTinyUrl\DesignTinyUrl\obj\Debug\netcoreapp3.1\DesignTinyUrl.dll
+C:\Users\Shwet\source\repos\DesignTinyUrl\DesignTinyUrl\obj\Debug\netcoreapp3.1\DesignTinyUrl.pdb
+C:\Users\Shwet\source\repos\DesignTinyUrl\DesignTinyUrl\obj\Debug\netcoreapp3.1\DesignTinyUrl.genruntimeconfig.cache
+C:\Users\Shwet\source\repos\DesignTinyUrl\DesignTinyUrl\obj\Debug\netcoreapp3.1\DesignTinyUrl.csproj.CoreCompileInputs.cache

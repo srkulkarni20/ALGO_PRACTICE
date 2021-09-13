@@ -1,0 +1,13 @@
+C:\Users\Shwet\source\repos\Flattenlinklist\Flattenlinklist\bin\Debug\netcoreapp3.1\Flattenlinklist.exe
+C:\Users\Shwet\source\repos\Flattenlinklist\Flattenlinklist\bin\Debug\netcoreapp3.1\Flattenlinklist.deps.json
+C:\Users\Shwet\source\repos\Flattenlinklist\Flattenlinklist\bin\Debug\netcoreapp3.1\Flattenlinklist.runtimeconfig.json
+C:\Users\Shwet\source\repos\Flattenlinklist\Flattenlinklist\bin\Debug\netcoreapp3.1\Flattenlinklist.runtimeconfig.dev.json
+C:\Users\Shwet\source\repos\Flattenlinklist\Flattenlinklist\bin\Debug\netcoreapp3.1\Flattenlinklist.dll
+C:\Users\Shwet\source\repos\Flattenlinklist\Flattenlinklist\bin\Debug\netcoreapp3.1\Flattenlinklist.pdb
+C:\Users\Shwet\source\repos\Flattenlinklist\Flattenlinklist\obj\Debug\netcoreapp3.1\Flattenlinklist.csprojAssemblyReference.cache
+C:\Users\Shwet\source\repos\Flattenlinklist\Flattenlinklist\obj\Debug\netcoreapp3.1\Flattenlinklist.csproj.CoreCompileInputs.cache
+C:\Users\Shwet\source\repos\Flattenlinklist\Flattenlinklist\obj\Debug\netcoreapp3.1\Flattenlinklist.AssemblyInfoInputs.cache
+C:\Users\Shwet\source\repos\Flattenlinklist\Flattenlinklist\obj\Debug\netcoreapp3.1\Flattenlinklist.AssemblyInfo.cs
+C:\Users\Shwet\source\repos\Flattenlinklist\Flattenlinklist\obj\Debug\netcoreapp3.1\Flattenlinklist.dll
+C:\Users\Shwet\source\repos\Flattenlinklist\Flattenlinklist\obj\Debug\netcoreapp3.1\Flattenlinklist.pdb
+C:\Users\Shwet\source\repos\Flattenlinklist\Flattenlinklist\obj\Debug\netcoreapp3.1\Flattenlinklist.genruntimeconfig.cache
